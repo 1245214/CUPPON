@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif,verdana;
+}
+
+.container-fluid{
+
+    background:  #28a745;
+}
+
+.navbar-brand{
+    padding-left: 10%;
+    color: white;
+    font-weight: bold;
+}
+.navbar-toggler{
+
+    text-align: left;
+    border: 2px solid white;
+}
+.navbar-toggler .navbar-toggler-icon{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+   }
+
+.nav-link{
+    color: white;
+}
+.card{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24);
+    
+}
+.card-title{
+    font-weight: bold;
+
+}
+#img1{
+    color: red;
+}
+.namecompany{
+    font-weight: bold;
+}
+.price{
+     font-size: 25px;
+     color: red;
+}
+.container-xxl{
+    background: #28a745;
+}
+.form-control{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+h4{
+    text-align: center;
+}
+.end{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.paragraph{
+    text-align: center;
+    padding-left:10px;
+    padding-right: 10px;
+    
+}
